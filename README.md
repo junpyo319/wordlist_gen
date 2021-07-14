@@ -1,3 +1,4 @@
-# RamRaid_colab
+# wordlist_gen
 
-# export from colab
+# 2021-07-13 완성
+# 2021-07-14 오류 수정 및 chrset 중복 제거 기능 추가
